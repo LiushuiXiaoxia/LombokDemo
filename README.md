@@ -180,7 +180,7 @@ With a little help from my friends... Helper methods for java.
 
 项目根目录下面新建配置文件 lombok.config，同时填上对应的配置项，Java项目不需要，Android和Java还是有点区别的，不配置有的注解使用不了，编译不过。
 
-![](doc/1.png)
+![](https://raw.githubusercontent.com/LiushuiXiaoxia/LombokDemo/master/doc/1.png)
 
 lombok.config
 
@@ -199,11 +199,11 @@ dependencies {
 
 可以在Android Studio中安装lombok插件。
 
-![](doc/2.png)
+![](https://raw.githubusercontent.com/LiushuiXiaoxia/LombokDemo/master/doc/2.png)
 
 这样可以很方便的看到类中生成的方法
 
-![](doc/3.png)
+![](https://raw.githubusercontent.com/LiushuiXiaoxia/LombokDemo/master/doc/3.png)
 
 ## 注解说明
 
@@ -782,7 +782,7 @@ public class GetterLazyExample {
 
 详细的流程图如下：
 
-![](doc/4.gif)
+![](https://raw.githubusercontent.com/LiushuiXiaoxia/LombokDemo/master/doc/4.gif)
 
 ## 总结
 
